@@ -1,0 +1,19 @@
+{
+  "name": "cart-rd/logger",
+  "type": "package",
+  "description": "Logger package",
+  "keywords": ["logfiles", "log", "logger"],
+  "license": "MIT",
+  
+   "authors": [
+      {
+          "name": "Rik Janssen",
+          "email": "rik@vesperphp.com"
+      }
+  ],
+  
+  "require": {
+    "rik-janssen/config": "0.*"
+  }
+  
+}
