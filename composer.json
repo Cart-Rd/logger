@@ -13,7 +13,6 @@
   ],
   
   "require": {
-    "rik-janssen/config": "0.*"
   }
   
 }
